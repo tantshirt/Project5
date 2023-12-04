@@ -1,0 +1,12 @@
+---
+:id: 199905582
+:submitters:
+- :name: Andre Exilien
+  :email: aexilien@asu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-05 23:52:47.045886000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-05 16:52:47.045886000 Z
+:status: processed
+:score: 49.5
